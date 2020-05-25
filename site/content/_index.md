@@ -35,7 +35,7 @@ products:
       provides for a lot of satisfaction for the model builder, and a surprising
 
       variety of operational activity.
-values:
+abouts:
   heading: Take a step away from the norm!
   text: "S Scale is definitely not part of railway modelling’s mainstream and is
     relatively unknown despite the first models dating from the late nineteenth
