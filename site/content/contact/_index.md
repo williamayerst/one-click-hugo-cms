@@ -1,19 +1,8 @@
 ---
-title: "Contact"
-logo: "/img/logo.svg"
+title: Contact
+logo: img/s_scale.gif
 contact_entries:
-  - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
-  - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+  - heading: Website
+    text: Visit our website, at http://www.s-scale.org.uk
 ---
-
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
-
-<h3 class="f4 b lh-title mb2">How can I get…?</h3>
-
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
+However, the best reason to model in S is the S Scale MRS. Founded in 1946, it is the longest established dedicated scale society. With a surprisingly high proportion of active modellers within its 100 or so members, the Society is small enough for everyone to get on with each other, yet large enough to support an interesting bi-monthly Gazette and a range of essential parts.
