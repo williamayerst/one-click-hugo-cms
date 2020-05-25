@@ -1,20 +1,43 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: S Scale Model Railway Society
+subtitle: The Scratchbuilder's Scale
+image: img/jn01.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
-intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
-products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
-values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
----
+  heading: Why S-Scale?
+  text: >+
+    S scale has a lot to offer the railway modeller looking for something
+    different, especially the
 
+    modeller who wishes to experience the Satisfaction of building models from basic materials with just a few ready-made components.
+
+
+intro:
+  heading: What is S?
+  text: S scale uses a ratio of 1:64, or 3/16” to one foot. This sounds odd in a
+    hobby dominated by millimetres to the foot, but it is incredibly easy to
+    work with – an engineer’s steel ruler will have scale inches marked upon it,
+    carefully disguised as 1/64 of an inch, and quick calculations can be made
+    on the basis that 3” represents 16’ on the model.
+products:
+  - image: img/size_comparison.jpg
+    text: For comparison with other scales, the scale is 4.76mm to the foot, which
+      makes it 19% bigger than 4mm scale, and 68% of 7mm scale. In practice,
+      this might not sound like a big difference, but actually S scale models
+      have 69% more volume and mass than 4mm scale, creating a more impressive
+      model that also rolls better, yet takes up only half the area of 7mm
+      scale.
+  - image: img/20200502_155707.jpg
+    text: >-
+      S scale layouts will fit into the same space as 4mm scale layouts, but
+      with the added bonus of the satisfaction of building it all oneself – plus
+      with just a few components to buy, and no RTR it becomes a lot more
+      affordable. Two or 3 locos, 3 or 4 coaches and no more than 20 wagons
+      provides for a lot of satisfaction for the model builder, and a surprising
+
+      variety of operational activity.
+values:
+  heading: Take a step away from the norm!
+  text: "S Scale is definitely not part of railway modelling’s mainstream and is
+    relatively unknown despite the first models dating from the late nineteenth
+    century: the very first model was exhibited in 1893. It was live steam, too"
+---
